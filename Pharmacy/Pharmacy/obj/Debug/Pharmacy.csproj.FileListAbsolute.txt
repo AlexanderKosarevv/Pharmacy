@@ -1,0 +1,187 @@
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\obj\Debug\Pharmacy.csproj.AssemblyReference.cache
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\obj\Debug\AuthWindow.g.cs
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\obj\Debug\MainWindow.g.cs
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\obj\Debug\RegistrationWindow.g.cs
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\obj\Debug\App.g.cs
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\obj\Debug\Pharmacy_MarkupCompile.cache
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\obj\Debug\Pharmacy_MarkupCompile.lref
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\obj\Debug\Pharmacy_Content.g.cs
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\bin\Debug\Pharmacy.exe.config
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\bin\Debug\Pharmacy.exe
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\bin\Debug\Pharmacy.pdb
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\bin\Debug\EntityFramework.dll
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\bin\Debug\EntityFramework.SqlServer.dll
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\bin\Debug\EntityFramework.xml
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\bin\Debug\EntityFramework.SqlServer.xml
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\bin\Debug\ru\EntityFramework.resources.dll
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\obj\Debug\App.baml
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\obj\Debug\AuthWindow.baml
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\obj\Debug\MainWindow.baml
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\obj\Debug\RegistrationWindow.baml
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\obj\Debug\Pharmacy.g.resources
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.cache
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\obj\Debug\Pharmacy.csproj.CoreCompileInputs.cache
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\obj\Debug\Pharmacy.csproj.CopyComplete
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\obj\Debug\Pharmacy.exe
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\obj\Debug\Pharmacy.pdb
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\obj\Debug\Pages\DrugsPage.g.cs
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\obj\Debug\Pages\DrugsPage.baml
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\obj\Debug\Pages\EmployeesPage.g.cs
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\obj\Debug\Pages\EmployeesPage.baml
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\obj\Debug\Pages\SalesPage.g.cs
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\obj\Debug\Pages\SalesPage.baml
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\obj\Debug\Pages\DrugsDlgPage.g.cs
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\obj\Debug\Pages\DrugsDlgPage.baml
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\obj\Debug\Pages\EmployeesDlgPage.g.cs
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\obj\Debug\Pages\EmployeesDlgPage.baml
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\obj\Debug\Pages\SalesDlgPage.g.cs
+D:\Study\Курсовик 2 Аптека\123\Pharmacy\obj\Debug\Pages\SalesDlgPage.baml
+D:\Study\Курсовик 2 Аптека\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+D:\Study\Курсовик 2 Аптека\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+D:\Study\Курсовик 2 Аптека\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+D:\Study\Курсовик 2 Аптека\Pharmacy\Pharmacy\bin\Debug\EntityFramework.xml
+D:\Study\Курсовик 2 Аптека\Pharmacy\Pharmacy\bin\Debug\EntityFramework.SqlServer.xml
+D:\Study\Курсовик 2 Аптека\Pharmacy\Pharmacy\bin\Debug\ru\EntityFramework.resources.dll
+D:\Study\Курсовик 2 Аптека\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.AssemblyReference.cache
+D:\Study\Курсовик 2 Аптека\Pharmacy\Pharmacy\obj\Debug\AuthWindow.g.cs
+D:\Study\Курсовик 2 Аптека\Pharmacy\Pharmacy\obj\Debug\MainWindow.g.cs
+D:\Study\Курсовик 2 Аптека\Pharmacy\Pharmacy\obj\Debug\Pages\DrugsDlgPage.g.cs
+D:\Study\Курсовик 2 Аптека\Pharmacy\Pharmacy\obj\Debug\Pages\DrugsPage.g.cs
+D:\Study\Курсовик 2 Аптека\Pharmacy\Pharmacy\obj\Debug\Pages\EmployeesDlgPage.g.cs
+D:\Study\Курсовик 2 Аптека\Pharmacy\Pharmacy\obj\Debug\Pages\EmployeesPage.g.cs
+D:\Study\Курсовик 2 Аптека\Pharmacy\Pharmacy\obj\Debug\Pages\SalesDlgPage.g.cs
+D:\Study\Курсовик 2 Аптека\Pharmacy\Pharmacy\obj\Debug\Pages\SalesPage.g.cs
+D:\Study\Курсовик 2 Аптека\Pharmacy\Pharmacy\obj\Debug\RegistrationWindow.g.cs
+D:\Study\Курсовик 2 Аптека\Pharmacy\Pharmacy\obj\Debug\App.g.cs
+D:\Study\Курсовик 2 Аптека\Pharmacy\Pharmacy\obj\Debug\Pharmacy_Content.g.cs
+D:\Study\Курсовик 2 Аптека\Pharmacy\Pharmacy\obj\Debug\Pharmacy_MarkupCompile.cache
+D:\Study\Курсовик 2 Аптека\Pharmacy\Pharmacy\obj\Debug\Pharmacy_MarkupCompile.lref
+D:\Study\Курсовик 2 Аптека\Pharmacy\Pharmacy\obj\Debug\App.baml
+D:\Study\Курсовик 2 Аптека\Pharmacy\Pharmacy\obj\Debug\AuthWindow.baml
+D:\Study\Курсовик 2 Аптека\Pharmacy\Pharmacy\obj\Debug\MainWindow.baml
+D:\Study\Курсовик 2 Аптека\Pharmacy\Pharmacy\obj\Debug\Pages\DrugsDlgPage.baml
+D:\Study\Курсовик 2 Аптека\Pharmacy\Pharmacy\obj\Debug\Pages\DrugsPage.baml
+D:\Study\Курсовик 2 Аптека\Pharmacy\Pharmacy\obj\Debug\Pages\EmployeesDlgPage.baml
+D:\Study\Курсовик 2 Аптека\Pharmacy\Pharmacy\obj\Debug\Pages\EmployeesPage.baml
+D:\Study\Курсовик 2 Аптека\Pharmacy\Pharmacy\obj\Debug\Pages\SalesDlgPage.baml
+D:\Study\Курсовик 2 Аптека\Pharmacy\Pharmacy\obj\Debug\Pages\SalesPage.baml
+D:\Study\Курсовик 2 Аптека\Pharmacy\Pharmacy\obj\Debug\RegistrationWindow.baml
+D:\Study\Курсовик 2 Аптека\Pharmacy\Pharmacy\obj\Debug\Pharmacy.g.resources
+D:\Study\Курсовик 2 Аптека\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+D:\Study\Курсовик 2 Аптека\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.cache
+D:\Study\Курсовик 2 Аптека\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.CoreCompileInputs.cache
+D:\Study\Курсовик 2 Аптека\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.CopyComplete
+D:\Study\Курсовик 2 Аптека\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+D:\Study\Курсовик 2 Аптека\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+D:\4is3\4ИС3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csprojAssemblyReference.cache
+D:\4is3\4ИС3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\AuthWindow.g.cs
+D:\4is3\4ИС3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\MainWindow.g.cs
+D:\4is3\4ИС3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pages\DrugsDlgPage.g.cs
+D:\4is3\4ИС3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pages\DrugsPage.g.cs
+D:\4is3\4ИС3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pages\EmployeesDlgPage.g.cs
+D:\4is3\4ИС3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pages\EmployeesPage.g.cs
+D:\4is3\4ИС3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pages\SalesDlgPage.g.cs
+D:\4is3\4ИС3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pages\SalesPage.g.cs
+D:\4is3\4ИС3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\RegistrationWindow.g.cs
+D:\4is3\4ИС3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\App.g.cs
+D:\4is3\4ИС3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pharmacy_Content.g.cs
+D:\4is3\4ИС3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pharmacy_MarkupCompile.cache
+D:\4is3\4ИС3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pharmacy_MarkupCompile.lref
+D:\4is3\4ИС3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+D:\4is3\4ИС3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+D:\4is3\4ИС3\Косарев\kursovik\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+D:\4is3\4ИС3\Косарев\kursovik\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+D:\4is3\4ИС3\Косарев\kursovik\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+D:\4is3\4ИС3\Косарев\kursovik\Pharmacy\Pharmacy\bin\Debug\EntityFramework.xml
+D:\4is3\4ИС3\Косарев\kursovik\Pharmacy\Pharmacy\bin\Debug\EntityFramework.SqlServer.xml
+D:\4is3\4ИС3\Косарев\kursovik\Pharmacy\Pharmacy\bin\Debug\ru\EntityFramework.resources.dll
+D:\4is3\4ИС3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\App.baml
+D:\4is3\4ИС3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\AuthWindow.baml
+D:\4is3\4ИС3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\MainWindow.baml
+D:\4is3\4ИС3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pages\DrugsDlgPage.baml
+D:\4is3\4ИС3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pages\DrugsPage.baml
+D:\4is3\4ИС3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pages\EmployeesDlgPage.baml
+D:\4is3\4ИС3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pages\EmployeesPage.baml
+D:\4is3\4ИС3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pages\SalesDlgPage.baml
+D:\4is3\4ИС3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pages\SalesPage.baml
+D:\4is3\4ИС3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\RegistrationWindow.baml
+D:\4is3\4ИС3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pharmacy.g.resources
+D:\4is3\4ИС3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+D:\4is3\4ИС3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.cache
+D:\4is3\4ИС3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.CoreCompileInputs.cache
+D:\4is3\4ИС3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.CopyComplete
+D:\4ис3\Косарев\kursovik\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+D:\4ис3\Косарев\kursovik\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+D:\4ис3\Косарев\kursovik\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+D:\4ис3\Косарев\kursovik\Pharmacy\Pharmacy\bin\Debug\EntityFramework.xml
+D:\4ис3\Косарев\kursovik\Pharmacy\Pharmacy\bin\Debug\EntityFramework.SqlServer.xml
+D:\4ис3\Косарев\kursovik\Pharmacy\Pharmacy\bin\Debug\ru\EntityFramework.resources.dll
+D:\4ис3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csprojAssemblyReference.cache
+D:\4ис3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\AuthWindow.g.cs
+D:\4ис3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\MainWindow.g.cs
+D:\4ис3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pages\DrugsDlgPage.g.cs
+D:\4ис3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pages\DrugsPage.g.cs
+D:\4ис3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pages\EmployeesDlgPage.g.cs
+D:\4ис3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pages\EmployeesPage.g.cs
+D:\4ис3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pages\SalesDlgPage.g.cs
+D:\4ис3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pages\SalesPage.g.cs
+D:\4ис3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\RegistrationWindow.g.cs
+D:\4ис3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\App.g.cs
+D:\4ис3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pharmacy_Content.g.cs
+D:\4ис3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pharmacy_MarkupCompile.cache
+D:\4ис3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pharmacy_MarkupCompile.lref
+D:\4ис3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\App.baml
+D:\4ис3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\AuthWindow.baml
+D:\4ис3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\MainWindow.baml
+D:\4ис3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pages\DrugsDlgPage.baml
+D:\4ис3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pages\DrugsPage.baml
+D:\4ис3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pages\EmployeesDlgPage.baml
+D:\4ис3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pages\EmployeesPage.baml
+D:\4ис3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pages\SalesDlgPage.baml
+D:\4ис3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pages\SalesPage.baml
+D:\4ис3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\RegistrationWindow.baml
+D:\4ис3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pharmacy.g.resources
+D:\4ис3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+D:\4ис3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.cache
+D:\4ис3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.CoreCompileInputs.cache
+D:\4ис3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.CopyComplete
+D:\4ис3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+D:\4ис3\Косарев\kursovik\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+D:\Study\Курсовик 2 Аптека\kursovik\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+D:\Study\Курсовик 2 Аптека\kursovik\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+D:\Study\Курсовик 2 Аптека\kursovik\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+D:\Study\Курсовик 2 Аптека\kursovik\Pharmacy\Pharmacy\bin\Debug\EntityFramework.xml
+D:\Study\Курсовик 2 Аптека\kursovik\Pharmacy\Pharmacy\bin\Debug\EntityFramework.SqlServer.xml
+D:\Study\Курсовик 2 Аптека\kursovik\Pharmacy\Pharmacy\bin\Debug\ru\EntityFramework.resources.dll
+D:\Study\Курсовик 2 Аптека\kursovik\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.AssemblyReference.cache
+D:\Study\Курсовик 2 Аптека\kursovik\Pharmacy\Pharmacy\obj\Debug\AuthWindow.g.cs
+D:\Study\Курсовик 2 Аптека\kursovik\Pharmacy\Pharmacy\obj\Debug\MainWindow.g.cs
+D:\Study\Курсовик 2 Аптека\kursovik\Pharmacy\Pharmacy\obj\Debug\Pages\DrugsDlgPage.g.cs
+D:\Study\Курсовик 2 Аптека\kursovik\Pharmacy\Pharmacy\obj\Debug\Pages\DrugsPage.g.cs
+D:\Study\Курсовик 2 Аптека\kursovik\Pharmacy\Pharmacy\obj\Debug\Pages\EmployeesDlgPage.g.cs
+D:\Study\Курсовик 2 Аптека\kursovik\Pharmacy\Pharmacy\obj\Debug\Pages\EmployeesPage.g.cs
+D:\Study\Курсовик 2 Аптека\kursovik\Pharmacy\Pharmacy\obj\Debug\Pages\SalesDlgPage.g.cs
+D:\Study\Курсовик 2 Аптека\kursovik\Pharmacy\Pharmacy\obj\Debug\Pages\SalesPage.g.cs
+D:\Study\Курсовик 2 Аптека\kursovik\Pharmacy\Pharmacy\obj\Debug\RegistrationWindow.g.cs
+D:\Study\Курсовик 2 Аптека\kursovik\Pharmacy\Pharmacy\obj\Debug\App.g.cs
+D:\Study\Курсовик 2 Аптека\kursovik\Pharmacy\Pharmacy\obj\Debug\Pharmacy_Content.g.cs
+D:\Study\Курсовик 2 Аптека\kursovik\Pharmacy\Pharmacy\obj\Debug\Pharmacy_MarkupCompile.cache
+D:\Study\Курсовик 2 Аптека\kursovik\Pharmacy\Pharmacy\obj\Debug\Pharmacy_MarkupCompile.lref
+D:\Study\Курсовик 2 Аптека\kursovik\Pharmacy\Pharmacy\obj\Debug\App.baml
+D:\Study\Курсовик 2 Аптека\kursovik\Pharmacy\Pharmacy\obj\Debug\AuthWindow.baml
+D:\Study\Курсовик 2 Аптека\kursovik\Pharmacy\Pharmacy\obj\Debug\MainWindow.baml
+D:\Study\Курсовик 2 Аптека\kursovik\Pharmacy\Pharmacy\obj\Debug\Pages\DrugsDlgPage.baml
+D:\Study\Курсовик 2 Аптека\kursovik\Pharmacy\Pharmacy\obj\Debug\Pages\DrugsPage.baml
+D:\Study\Курсовик 2 Аптека\kursovik\Pharmacy\Pharmacy\obj\Debug\Pages\EmployeesDlgPage.baml
+D:\Study\Курсовик 2 Аптека\kursovik\Pharmacy\Pharmacy\obj\Debug\Pages\EmployeesPage.baml
+D:\Study\Курсовик 2 Аптека\kursovik\Pharmacy\Pharmacy\obj\Debug\Pages\SalesDlgPage.baml
+D:\Study\Курсовик 2 Аптека\kursovik\Pharmacy\Pharmacy\obj\Debug\Pages\SalesPage.baml
+D:\Study\Курсовик 2 Аптека\kursovik\Pharmacy\Pharmacy\obj\Debug\RegistrationWindow.baml
+D:\Study\Курсовик 2 Аптека\kursovik\Pharmacy\Pharmacy\obj\Debug\Pharmacy.g.resources
+D:\Study\Курсовик 2 Аптека\kursovik\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+D:\Study\Курсовик 2 Аптека\kursovik\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.cache
+D:\Study\Курсовик 2 Аптека\kursovik\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.CoreCompileInputs.cache
+D:\Study\Курсовик 2 Аптека\kursovik\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.CopyComplete
+D:\Study\Курсовик 2 Аптека\kursovik\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+D:\Study\Курсовик 2 Аптека\kursovik\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb

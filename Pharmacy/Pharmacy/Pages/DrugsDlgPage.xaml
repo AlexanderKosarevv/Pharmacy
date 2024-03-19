@@ -1,0 +1,46 @@
+﻿<Page x:Class="Pharmacy.Pages.DrugsDlgPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Pharmacy.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="400"
+      Title="DrugsDlgPage" Background="#703EFF">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="35"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Label x:Name="CaptionLabel" Grid.Row="0" Content="Новый препарат" Height="37" FontSize="20" Foreground="White"/>
+
+        <StackPanel Grid.Row="1" Orientation="Vertical" Margin="5,0">
+            <Label Content="Название" Foreground="White"/>
+            <TextBox x:Name="NameTextBox" Margin="5,0" TextWrapping="Wrap" VerticalContentAlignment="Center" VerticalScrollBarVisibility="Auto" TabIndex="0" Text="{Binding Drug.Name}"/>
+            <Label Content="Цена" Foreground="White"/>
+            <TextBox x:Name="PriceTextBox" TextWrapping="Wrap" Margin="5,0"
+                     VerticalScrollBarVisibility="Auto" TabIndex="1" Text="{Binding Drug.Price}"/>
+            <Label Content="Производитель" Foreground="White"/>
+            <TextBox x:Name="ManufacturerTextBox" TextWrapping="Wrap" Margin="5,0"
+                     VerticalScrollBarVisibility="Auto" TabIndex="2" 
+                     Text="{Binding Drug.Manufacturer}"/>
+            <Label Content="Нужен ли рецепт?" Foreground="White"/>
+            <ComboBox x:Name="RecipeComboBox" Margin="5,0" TabIndex="3" 
+                      Text="{Binding Recipe.Name}"
+                      DisplayMemberPath="Name" 
+                      SelectedValuePath="IDRecipe"
+                      SelectedValue="{Binding Drug.IDRecipe}"/>
+            <Label Content="Тип препарата" Foreground="White"/>
+            <ComboBox x:Name="TypeComboBox" Margin="5,0" TabIndex="4" 
+                      Text="{Binding Type.Name}"
+                      DisplayMemberPath="Name" 
+                      SelectedValuePath="IDType"
+                      SelectedValue="{Binding Drug.IDType}"/>
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="0,10">
+                <Button x:Name="CancelButton" Content="Отмена" Height="25" Width="75" IsCancel="True" TabIndex="101" Click="CancelButton_Click"/>
+                <Button x:Name="OkButton" Content="ОК" Height="25" Width="75" IsDefault="True" Margin="5,0" TabIndex="100" Click="OkButton_Click"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>

@@ -1,0 +1,39 @@
+﻿<Page x:Class="Pharmacy.Pages.EmployeesDlgPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Pharmacy.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="250"
+      Title="EmployeesDlgPage" Background="#703EFF" MinWidth="400">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="35"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Label x:Name="CaptionLabel" Grid.Row="0" Content="Новый сотрудник" Height="37" FontSize="20" Foreground="White"/>
+
+        <StackPanel Grid.Row="1" Orientation="Vertical" Margin="5,0">
+            <Label Content="Фамилия" Foreground="White"/>
+            <TextBox x:Name="SurnameTextBox" Margin="5,0" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto" TabIndex="0" Text="{Binding Employee.Surname}"/>
+            <Label Content="Имя" Foreground="White"/>
+            <TextBox x:Name="NameTextBox" Margin="5,0" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto" TabIndex="1" Text="{Binding Employee.Name}"/>
+            <Label Content="Отчество" Foreground="White"/>
+            <TextBox x:Name="PatronymicTextBox" Margin="5,0" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto" TabIndex="2" Text="{Binding Employee.Patronymic}"/>
+            <Label Content="Дата рождения" Foreground="White"/>
+            <DatePicker x:Name="BirthdateDatePicker" Margin="5,0" TabIndex="3" BorderBrush="#703EFF" SelectedDate="{Binding Employee.Birthdate}"/>
+            <Label Content="Пол" Foreground="White"/>
+            <ComboBox x:Name="SexesComboBox" Margin="5,0" TabIndex="4" 
+                      Text="{Binding Sexes.Name}"
+                      DisplayMemberPath="Name" 
+                      SelectedValuePath="IDSex"
+                      SelectedValue="{Binding Employee.IDSex}"/>
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="0,10">
+                <Button x:Name="CancelButton" Content="Отмена" Height="25" Width="75" IsCancel="True" TabIndex="101" Click="CancelButton_Click" />
+                <Button x:Name="OkButton" Content="ОК" Height="25" Width="75" IsDefault="True" Margin="5,0" TabIndex="100" Click="OkButton_Click"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>

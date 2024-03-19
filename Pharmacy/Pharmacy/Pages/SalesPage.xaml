@@ -1,0 +1,60 @@
+﻿<Page x:Class="Pharmacy.Pages.SalesPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Pharmacy.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="SalesPage">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" MinWidth="250"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="375" MinWidth="375" MaxWidth="560"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <DockPanel Grid.ColumnSpan="3" Background="#FFAEFF">
+            <Label Content="Продажи" VerticalContentAlignment="Center" FontSize="20"/>
+        </DockPanel>
+
+        <DockPanel x:Name="PageDataGridDockPanel"  Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="3" Background="#FFAEFF">
+            <StackPanel Orientation="Horizontal" DockPanel.Dock="Top" Height="25" Margin="0,5,0,0">
+                <Button x:Name="AddSaleButton" Content="Новая" Margin="5,0,0,0" Width="75" FontSize="12" Height="Auto" Click="AddSaleButton_Click" TabIndex="1"/>
+                <Button x:Name="CopySaleButton" Content="Копировать" Margin="5,0,5,0" Width="75" FontSize="12" Click="CopySaleButton_Click" VerticalAlignment="Top" TabIndex="2"/>
+                <Button x:Name="EditSaleButton" Content="Изменить" Margin="5,0,0,0" Width="75" FontSize="12" Click="EditSaleButton_Click" Height="Auto" TabIndex="3"/>
+                <Button x:Name="DeleteSaleButton" Content="Удалить" Margin="5,0,0,0" Width="75" FontSize="12" Click="DeleteSaleButton_Click" TabIndex="4"/>
+                <Button x:Name="FilterSalesButton" Content="Поиск" Margin="15,0,0,0" Width="110" FontSize="12" Click="FilterSaleButton_Click" VerticalAlignment="Bottom" TabIndex="5"/>
+            </StackPanel>
+
+            <DockPanel x:Name="FilterDockPanel" DockPanel.Dock="Top" Margin="0,3,0,3" Visibility="Collapsed">
+                <Label Content="Быстрый поиск" VerticalContentAlignment="Center"/>
+                <TextBox x:Name="FilterTextBox" Margin="5,5,5,0" VerticalContentAlignment="Center" TextChanged="FilterTextBox_TextChanged"/>
+            </DockPanel>
+
+
+            <DataGrid x:Name="SalesDataGrid" AutoGenerateColumns="False" 
+                      IsReadOnly="True" CanUserResizeRows="False" 
+                      RowHeaderWidth="0" Margin="0,5,0,0" TabIndex="6">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Препарат" Width="8*" 
+                                        Binding="{Binding Path=Drug.Name}"/>
+                    <DataGridTextColumn Header="Количество" Width="8*"
+                                        Binding="{Binding Path=Quantity}"/>
+                    <DataGridTextColumn Header="Сотрудник" Width="10*"
+                                        Binding="{Binding Path=Employee.Surname}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </DockPanel>
+
+        <GridSplitter x:Name="DialogGridSplitter" Grid.Column="1" Grid.Row="1" Width="3" HorizontalAlignment="Center" Visibility="Hidden"/>
+        <ScrollViewer x:Name="DialogScrollViewer" Grid.Row="1" Grid.Column="2" Visibility="Hidden" VerticalScrollBarVisibility="Hidden">
+            <Frame x:Name="DialogFrame"/>
+        </ScrollViewer>
+    </Grid>
+</Page>

@@ -1,0 +1,46 @@
+﻿<Window x:Class="Pharmacy.AuthWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pharmacy"
+        mc:Ignorable="d"
+        Title="Авторизация" Height="240" Width="380" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <Image x:Key="Show" Source="Images/ion_eye-outline.png" />
+        <Image x:Key="Hide" Source="Images/mdi-light_eye-off.png"/>
+    </Window.Resources>
+    <Grid Background="#E3BFFF">
+        <StackPanel Background="#E3BFFF" Margin="15,10,15,10">
+            <Label Content="Авторизация" FontWeight="Bold" FontSize="20" 
+                   HorizontalAlignment="Center"/>
+            <DockPanel Margin="0,10,0,0">
+                <Label Content="Логин" Width="80" FontWeight="Medium" FontSize="16"/>
+                <TextBox x:Name="LoginTextBox" Text="admin"/>
+            </DockPanel>
+            <DockPanel Margin="0,10,0,0">
+                <Label Content="Пароль" Width="80" FontWeight="Medium" FontSize="16"/>
+                <TextBox x:Name="PasswordTextBox" Width="0" Visibility="Hidden"/>
+                <PasswordBox x:Name="PasswordPasswordBox" Password="admin" Width="220" 
+                             VerticalContentAlignment="Center"/>
+                <Button x:Name="PasswordButton" Margin="4,0,0,0" Height="30" Width="30"
+                        Click="PasswordButton_Click">
+                    <Image DockPanel.Dock="Left" Width="20" Height="20" 
+                           Source="Images/ion_eye-outline.png"/>
+                </Button>
+            </DockPanel>
+            <DockPanel x:Name="AttemptsDockPanel" Margin="0,5,0,0" Visibility="Hidden">
+                <Label Content="Количество оставшихся попыток:" FontSize="12"/>
+                <Label x:Name="AttemptsLabel" FontSize="12"/>
+            </DockPanel>
+            <DockPanel>
+                <Button x:Name="RegistrationButton" Content="Регистрация" Margin="0,5,0,0"
+                        Height="25" Width="120" Click="RegistrationButton_Click"/>
+                <Button x:Name="CancelButton" Content="Отмена" Margin="30,5,5,0" Height="25"
+                        Width="90" Click="CancelButton_Click"/>
+                <Button x:Name="OkButton" Content="ОК" Margin="0,5,0,0" Height="25" 
+                        Width="90" Click="OkButton_Click"/>
+            </DockPanel>
+        </StackPanel>
+    </Grid>
+</Window>
